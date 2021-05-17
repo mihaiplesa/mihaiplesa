@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaiplesa&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaiplesat&show_icons=true&count_private=true&include_all_commits=true)
