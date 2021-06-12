@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+Hi, I'm Mihai. Find more about me on https://mihaiplesa.com
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaiplesa&show_icons=true&count_private=true&include_all_commits=true)
