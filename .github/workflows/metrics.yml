@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
@@ -120,7 +121,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_followup: yes
           plugin_languages: yes
 
   repositories:
