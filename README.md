@@ -7,10 +7,6 @@ Hi, I'm Mihai. You can find more about me at https://mihaiplesa.com
 </a>
 
 <a href="https://github.com/mihaiplesa">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-
-<a href="https://github.com/mihaiplesa">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
