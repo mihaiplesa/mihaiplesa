@@ -37,7 +37,7 @@ jobs:
 
           # Options
           user: mihaiplesa
-          template: classic
+          template: repository
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
   lines:
@@ -64,7 +64,7 @@ jobs:
 
           # Options
           user: mihaiplesa
-          template: classic
+          template: repository
           base: activity
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
@@ -81,7 +81,7 @@ jobs:
 
           # Options
           user: mihaiplesa
-          template: classic
+          template: repository
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_isocalendar: yes
@@ -98,7 +98,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
           user: mihaiplesa
           base: ""
-          template: classic
+          template: repository
           plugin_habits: yes
           plugin_habits_from: 200 # Use 200 events to compute habits
           plugin_habits_days: 14 # Keep only events from last 14 days
@@ -118,7 +118,7 @@ jobs:
 
           # Options
           user: mihaiplesa
-          template: classic
+          template: repository
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_languages: yes
@@ -136,6 +136,6 @@ jobs:
 
           # Options
           user: mihaiplesa
-          template: classic
+          template: repository
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
