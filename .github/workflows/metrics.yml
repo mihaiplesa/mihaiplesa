@@ -84,8 +84,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
 
   habits:
     runs-on: ubuntu-latest
