@@ -65,7 +65,7 @@ jobs:
           # Options
           user: mihaiplesa
           template: classic
-          base: activity, community
+          base: activity
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   iso_calender:
